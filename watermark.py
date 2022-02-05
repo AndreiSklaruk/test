@@ -8,7 +8,7 @@ image.show()
 plt.imshow(image)
 
 # image watermark
-size = (500, 100)
+size = (500, 200)
 crop_image = (image.copy())
 crop_image.thumbnail(size)
 
