@@ -5,4 +5,4 @@ img = img.resize((1280, 842), Image.ANTIALIAS)
 img.save('final/croped.jpg')
 img.show()
 
-g
+
